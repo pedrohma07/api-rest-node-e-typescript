@@ -32,6 +32,7 @@
             "error",
             "always"
         ],
-        "@typescript-eslint/no-empty-interface": "OFF"
+        "@typescript-eslint/no-empty-interface": "OFF",
+        "@typescript-eslint/ban-types": "OFF"
     }
 }

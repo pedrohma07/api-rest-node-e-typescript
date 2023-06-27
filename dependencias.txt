@@ -2,3 +2,5 @@ yarn add http-status-code
 yarn add -D @types/http-status-codes
 
 yarn add dotenv
+
+yarn add yup
