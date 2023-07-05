@@ -8,3 +8,7 @@ yarn add -D @types/http-status-codes
 yarn add dotenv
 
 yarn add yup
+
+yarn add jest ts-jest @types/jest
+
+yarn add -D supertest @types/supertest
